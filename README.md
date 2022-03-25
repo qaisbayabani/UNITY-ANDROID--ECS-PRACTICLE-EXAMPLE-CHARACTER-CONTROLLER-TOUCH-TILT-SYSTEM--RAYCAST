@@ -33,6 +33,8 @@ touch left down to de=accelerate
 
 touch right up to stablize the plane 
 
+# INDMOB.CS IS THE ROOT CONTROLLING FILE OF ALL PROCESSES
+
 touch left up to fire missile
 
 tilt left to turn left
