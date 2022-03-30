@@ -2,9 +2,8 @@
 
 # CREATED IN REPONSE OF THOUSANDS OF IMPRACTICLLE VIDEOS/EXAMPLES FOR SUBJECT, A PRACTICLE EXAMPLE
 
+# i have uploaded a video of this lecture on https://www.youtube.com/watch?v=wd_lKyVdTlw
 This is a 100% working Code for 
-
-
 
 Ecs Player Entity
 
@@ -15,7 +14,6 @@ Ecs Astroid Entities.
 All entities coolide with 
 
 Havok physics 0.4.1 preview 2
-
 
 Other Packages
 
